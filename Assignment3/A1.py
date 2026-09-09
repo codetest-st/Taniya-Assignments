@@ -1,4 +1,4 @@
-n1=int(input("Enter first number:"))
+n1=int(input("Enter a number:"))
 i=100
 while i<n1:
     if n1%i==0:
