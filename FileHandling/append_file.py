@@ -1,0 +1,5 @@
+file=open("Student.txt", "a")
+file.write("\nDay 2: Peacticed read and append mode.")
+file.write("\nDay 3: Practiced CSV basics.")
+file.close()
+print("New data added successfully")

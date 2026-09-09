@@ -1,4 +1,4 @@
-file=open("FileHandling.txt","w")
-file.write("I am Taniya ")
-file.write("I belong to Sirsa.")
-file.write("I am pursuing BCA from CDLU")
+file=open("Student.txt", "w") 
+file.write("Learning Python" \n)
+file.close()
+print("File created successfully.")
