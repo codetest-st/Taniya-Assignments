@@ -1,0 +1,1 @@
+Learning PythonDay 2: Peacticed read and append mode.Day 3: Practiced CSV basics./n Day 2: Peacticed read and append mode./n Day 3: Practiced CSV basics.
